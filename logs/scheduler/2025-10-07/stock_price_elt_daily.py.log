@@ -1,0 +1,358 @@
+[2025-10-07T03:23:42.058+0000] {processor.py:186} INFO - Started process (PID=56378) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:23:42.058+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:23:42.059+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:23:42.059+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:23:42.335+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:23:42.374+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:23:42.374+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:23:42.381+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:23:42.381+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:23:42.387+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.333 seconds
+[2025-10-07T03:24:12.478+0000] {processor.py:186} INFO - Started process (PID=56404) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:24:12.478+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:24:12.479+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:24:12.479+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:24:12.850+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:24:12.867+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:24:12.865+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:24:12.876+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:24:12.876+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:24:12.884+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.410 seconds
+[2025-10-07T03:24:43.308+0000] {processor.py:186} INFO - Started process (PID=56430) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:24:43.308+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:24:43.309+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:24:43.309+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:24:43.540+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:24:43.548+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:24:43.548+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:24:43.558+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:24:43.558+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:24:43.563+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.260 seconds
+[2025-10-07T03:25:14.026+0000] {processor.py:186} INFO - Started process (PID=56456) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:25:14.027+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:25:14.028+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:25:14.027+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:25:14.271+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:25:14.280+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:25:14.280+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:25:14.288+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:25:14.287+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:25:14.293+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.271 seconds
+[2025-10-07T03:25:21.303+0000] {processor.py:186} INFO - Started process (PID=56471) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:25:21.304+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:25:21.304+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:25:21.304+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:25:21.534+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:25:21.541+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:25:21.541+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:25:21.548+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:25:21.548+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:25:21.553+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.252 seconds
+[2025-10-07T03:25:51.887+0000] {processor.py:186} INFO - Started process (PID=56489) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:25:51.889+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:25:51.890+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:25:51.890+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:25:52.128+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:25:52.137+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:25:52.137+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:25:52.145+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:25:52.145+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:25:52.151+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.270 seconds
+[2025-10-07T03:26:22.570+0000] {processor.py:186} INFO - Started process (PID=56518) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:26:22.571+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:26:22.572+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:26:22.571+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:26:22.822+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:26:22.831+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:26:22.831+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:26:22.839+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:26:22.839+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:26:22.844+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.279 seconds
+[2025-10-07T03:26:53.186+0000] {processor.py:186} INFO - Started process (PID=56544) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:26:53.187+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:26:53.188+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:26:53.188+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:26:53.514+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:26:53.523+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:26:53.522+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:26:53.530+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:26:53.530+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:26:53.535+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.353 seconds
+[2025-10-07T03:27:23.921+0000] {processor.py:186} INFO - Started process (PID=56570) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:27:23.922+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:27:23.923+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:27:23.922+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:27:24.151+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:27:24.160+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:27:24.160+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:27:24.168+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:27:24.168+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:27:24.174+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.257 seconds
+[2025-10-07T03:27:54.587+0000] {processor.py:186} INFO - Started process (PID=56596) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:27:54.588+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:27:54.589+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:27:54.588+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:27:54.819+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:27:54.827+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:27:54.827+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:27:54.834+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:27:54.834+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:27:54.840+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.257 seconds
+[2025-10-07T03:28:25.214+0000] {processor.py:186} INFO - Started process (PID=56622) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:28:25.215+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:28:25.216+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:28:25.216+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:28:25.707+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:28:25.716+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:28:25.716+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:28:25.731+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:28:25.731+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:28:25.738+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.530 seconds
+[2025-10-07T03:28:56.171+0000] {processor.py:186} INFO - Started process (PID=56648) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:28:56.172+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:28:56.174+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:28:56.173+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:28:56.589+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:28:56.604+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:28:56.604+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:28:56.620+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:28:56.619+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:28:56.639+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.474 seconds
+[2025-10-07T03:29:27.060+0000] {processor.py:186} INFO - Started process (PID=56679) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:29:27.061+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:29:27.062+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:29:27.062+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:29:27.324+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:29:27.332+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:29:27.332+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:29:27.340+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:29:27.340+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:29:27.346+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.291 seconds
+[2025-10-07T03:29:57.742+0000] {processor.py:186} INFO - Started process (PID=56705) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:29:57.743+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:29:57.743+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:29:57.743+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:29:57.982+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:29:57.990+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:29:57.990+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:29:57.997+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:29:57.997+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:29:58.002+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.265 seconds
+[2025-10-07T03:30:28.358+0000] {processor.py:186} INFO - Started process (PID=56736) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:30:28.359+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:30:28.360+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:30:28.359+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:30:28.654+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:30:28.664+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:30:28.664+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:30:28.674+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:30:28.674+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:30:28.680+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.326 seconds
+[2025-10-07T03:30:59.216+0000] {processor.py:186} INFO - Started process (PID=56769) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:30:59.217+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:30:59.218+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:30:59.217+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:30:59.459+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:30:59.475+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:30:59.475+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:30:59.484+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:30:59.484+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:30:59.495+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.283 seconds
+[2025-10-07T03:31:29.872+0000] {processor.py:186} INFO - Started process (PID=56795) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:31:29.874+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:31:29.875+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:31:29.874+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:31:30.157+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:31:30.170+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:31:30.170+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:31:30.179+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:31:30.179+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:31:30.186+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.319 seconds
+[2025-10-07T03:32:00.554+0000] {processor.py:186} INFO - Started process (PID=56832) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:32:00.555+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:32:00.556+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:32:00.556+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:32:00.814+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:32:00.829+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:32:00.828+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:32:00.838+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:32:00.838+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:32:00.846+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.295 seconds
+[2025-10-07T03:32:31.215+0000] {processor.py:186} INFO - Started process (PID=56858) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:32:31.216+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:32:31.217+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:32:31.217+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:32:31.482+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:32:31.492+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:32:31.492+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:32:31.501+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:32:31.501+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:32:31.512+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.302 seconds
+[2025-10-07T03:33:01.902+0000] {processor.py:186} INFO - Started process (PID=56884) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:33:01.904+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:33:01.906+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:33:01.906+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:33:02.168+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:33:02.181+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:33:02.180+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:33:02.189+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:33:02.189+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:33:02.196+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.298 seconds
+[2025-10-07T03:33:32.597+0000] {processor.py:186} INFO - Started process (PID=56910) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:33:32.598+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:33:32.599+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:33:32.599+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:33:32.863+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:33:32.872+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:33:32.872+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:33:32.881+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:33:32.881+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:33:32.887+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.295 seconds
+[2025-10-07T03:33:54.509+0000] {processor.py:186} INFO - Started process (PID=56930) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:33:54.509+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:33:54.509+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:33:54.509+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:33:54.711+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:33:54.719+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:33:54.719+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:33:54.726+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:33:54.726+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:33:54.731+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.225 seconds
+[2025-10-07T03:34:03.929+0000] {processor.py:186} INFO - Started process (PID=56949) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:34:03.930+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:34:03.931+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:34:03.930+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:34:04.178+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:34:04.186+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:34:04.186+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:34:04.193+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:34:04.193+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:34:04.198+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.271 seconds
+[2025-10-07T03:34:34.530+0000] {processor.py:186} INFO - Started process (PID=56972) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:34:34.531+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:34:34.532+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:34:34.531+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:34:34.805+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:34:34.841+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:34:34.840+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:34:34.844+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:34:34.844+0000] {dag.py:3252} INFO - Creating ORM DAG for stock_price_elt_daily
+[2025-10-07T03:34:34.847+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:34:34.847+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-06 02:30:00+00:00, run_after=2025-10-07 02:30:00+00:00
+[2025-10-07T03:34:34.851+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.326 seconds
+[2025-10-07T03:35:05.171+0000] {processor.py:186} INFO - Started process (PID=57051) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:35:05.172+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:35:05.173+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:35:05.173+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:35:05.463+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:35:05.472+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:35:05.471+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:35:05.480+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:35:05.480+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:35:05.487+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.321 seconds
+[2025-10-07T03:35:35.560+0000] {processor.py:186} INFO - Started process (PID=57077) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:35:35.561+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:35:35.562+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:35:35.562+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:35:35.836+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:35:35.845+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:35:35.845+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:35:35.854+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:35:35.854+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:35:35.860+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.306 seconds
+[2025-10-07T03:36:06.217+0000] {processor.py:186} INFO - Started process (PID=57108) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:36:06.219+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:36:06.220+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:36:06.220+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:36:06.477+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:36:06.486+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:36:06.485+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:36:06.493+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:36:06.493+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:36:06.498+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.288 seconds
+[2025-10-07T03:36:36.841+0000] {processor.py:186} INFO - Started process (PID=57134) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:36:36.842+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:36:36.843+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:36:36.843+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:36:37.096+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:36:37.105+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:36:37.104+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:36:37.112+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:36:37.112+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:36:37.118+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.283 seconds
+[2025-10-07T03:37:07.165+0000] {processor.py:186} INFO - Started process (PID=57160) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:37:07.166+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:37:07.167+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:37:07.167+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:37:07.456+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:37:07.465+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:37:07.465+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:37:07.474+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:37:07.474+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:37:07.479+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.318 seconds
+[2025-10-07T03:37:37.805+0000] {processor.py:186} INFO - Started process (PID=57186) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:37:37.805+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:37:37.806+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:37:37.806+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:37:38.054+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:37:38.063+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:37:38.063+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:37:38.070+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:37:38.070+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:37:38.075+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.273 seconds
+[2025-10-07T03:38:08.442+0000] {processor.py:186} INFO - Started process (PID=57212) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:38:08.443+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:38:08.444+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:38:08.444+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:38:08.787+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:38:08.796+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:38:08.795+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:38:08.804+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:38:08.803+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:38:08.809+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.372 seconds
+[2025-10-07T03:38:38.888+0000] {processor.py:186} INFO - Started process (PID=57238) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:38:38.890+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:38:38.891+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:38:38.890+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:38:39.133+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:38:39.142+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:38:39.142+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:38:39.150+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:38:39.150+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:38:39.156+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.274 seconds
+[2025-10-07T03:39:09.534+0000] {processor.py:186} INFO - Started process (PID=57264) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:39:09.536+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:39:09.537+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:39:09.537+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:39:09.785+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:39:09.794+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:39:09.794+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:39:09.801+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:39:09.801+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:39:09.807+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.278 seconds
+[2025-10-07T03:39:40.114+0000] {processor.py:186} INFO - Started process (PID=57290) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:39:40.114+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:39:40.115+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:39:40.115+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:39:40.347+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:39:40.355+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:39:40.355+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:39:40.363+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:39:40.363+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:39:40.368+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.258 seconds
+[2025-10-07T03:40:10.404+0000] {processor.py:186} INFO - Started process (PID=57316) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:40:10.406+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:40:10.407+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:40:10.407+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:40:10.689+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:40:10.698+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:40:10.698+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:40:10.707+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:40:10.707+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:40:10.713+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.313 seconds
+[2025-10-07T03:40:41.091+0000] {processor.py:186} INFO - Started process (PID=57342) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:40:41.093+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:40:41.095+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:40:41.094+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:40:41.404+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:40:41.413+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:40:41.413+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:40:41.422+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:40:41.422+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:40:41.428+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.343 seconds
+[2025-10-07T03:41:11.747+0000] {processor.py:186} INFO - Started process (PID=57368) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:41:11.748+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:41:11.749+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:41:11.749+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:41:11.994+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:41:12.003+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:41:12.003+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:41:12.011+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:41:12.011+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:41:12.016+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.274 seconds
+[2025-10-07T03:41:42.311+0000] {processor.py:186} INFO - Started process (PID=57394) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:41:42.312+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:41:42.312+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:41:42.312+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:41:42.547+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:41:42.555+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:41:42.555+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:41:42.563+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:41:42.563+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:41:42.568+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.262 seconds
+[2025-10-07T03:42:12.926+0000] {processor.py:186} INFO - Started process (PID=57420) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:42:12.928+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:42:12.929+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:42:12.929+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:42:13.159+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:42:13.167+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:42:13.167+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:42:13.174+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:42:13.174+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:42:13.179+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.259 seconds
+[2025-10-07T03:42:43.503+0000] {processor.py:186} INFO - Started process (PID=57446) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:42:43.504+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:42:43.504+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:42:43.504+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:42:43.778+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:42:43.790+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:42:43.790+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:42:43.799+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:42:43.799+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:42:43.804+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.305 seconds
+[2025-10-07T03:43:05.343+0000] {processor.py:186} INFO - Started process (PID=57467) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:43:05.347+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:43:05.349+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:43:05.349+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:43:05.553+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:43:05.562+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:43:05.561+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:43:05.569+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:43:05.569+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:43:05.575+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.234 seconds
+[2025-10-07T03:43:35.999+0000] {processor.py:186} INFO - Started process (PID=57488) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:43:36.002+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:43:36.004+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:43:36.003+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:43:36.341+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:43:36.354+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:43:36.353+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:43:36.363+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:43:36.363+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:43:36.371+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.378 seconds
+[2025-10-07T03:44:06.513+0000] {processor.py:186} INFO - Started process (PID=57514) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:44:06.516+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:44:06.518+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:44:06.517+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:44:06.772+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:44:06.780+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:44:06.780+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:44:06.789+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:44:06.789+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:44:06.796+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.289 seconds
+[2025-10-07T03:44:37.219+0000] {processor.py:186} INFO - Started process (PID=57540) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:44:37.221+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:44:37.223+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:44:37.222+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:44:37.479+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:44:37.487+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:44:37.487+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:44:37.496+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:44:37.496+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:44:37.502+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.293 seconds
+[2025-10-07T03:45:07.918+0000] {processor.py:186} INFO - Started process (PID=57566) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:45:07.921+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:45:07.922+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:45:07.922+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:45:08.160+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:45:08.169+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:45:08.168+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:45:08.177+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:45:08.177+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:45:08.183+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.270 seconds
+[2025-10-07T03:45:38.565+0000] {processor.py:186} INFO - Started process (PID=57592) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:45:38.566+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:45:38.567+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:45:38.567+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:45:38.818+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:45:38.831+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:45:38.831+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:45:38.839+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:45:38.839+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:45:38.847+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.287 seconds
+[2025-10-07T03:46:09.296+0000] {processor.py:186} INFO - Started process (PID=57618) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:46:09.298+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:46:09.299+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:46:09.299+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:46:09.554+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:46:09.564+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:46:09.564+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:46:09.572+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:46:09.572+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:46:09.579+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.292 seconds
+[2025-10-07T03:46:40.001+0000] {processor.py:186} INFO - Started process (PID=57644) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:46:40.003+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:46:40.004+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:46:40.004+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:46:40.269+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:46:40.278+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:46:40.278+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:46:40.286+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:46:40.286+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:46:40.294+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.300 seconds
+[2025-10-07T03:47:10.708+0000] {processor.py:186} INFO - Started process (PID=57670) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:47:10.709+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:47:10.709+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:47:10.709+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:47:10.955+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:47:10.964+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:47:10.964+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:47:10.972+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:47:10.972+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:47:10.979+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.275 seconds
+[2025-10-07T03:47:41.269+0000] {processor.py:186} INFO - Started process (PID=57696) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:47:41.273+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:47:41.275+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:47:41.274+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:47:41.530+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:47:41.539+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:47:41.538+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:47:41.548+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:47:41.547+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:47:41.553+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.290 seconds
+[2025-10-07T03:48:11.962+0000] {processor.py:186} INFO - Started process (PID=57722) to work on /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:48:11.964+0000] {processor.py:914} INFO - Processing file /opt/airflow/dags/stock_price_elt_daily.py for tasks to queue
+[2025-10-07T03:48:11.965+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:48:11.964+0000] {dagbag.py:587} INFO - Filling up the DagBag from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:48:12.243+0000] {processor.py:925} INFO - DAG(s) 'stock_price_elt_daily' retrieved from /opt/airflow/dags/stock_price_elt_daily.py
+[2025-10-07T03:48:12.254+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:48:12.253+0000] {dag.py:3229} INFO - Sync 1 DAGs
+[2025-10-07T03:48:12.261+0000] {logging_mixin.py:190} INFO - [2025-10-07T03:48:12.261+0000] {dag.py:4156} INFO - Setting next_dagrun for stock_price_elt_daily to 2025-10-07 02:30:00+00:00, run_after=2025-10-08 02:30:00+00:00
+[2025-10-07T03:48:12.268+0000] {processor.py:208} INFO - Processing /opt/airflow/dags/stock_price_elt_daily.py took 0.313 seconds
