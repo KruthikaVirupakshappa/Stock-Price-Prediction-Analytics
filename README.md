@@ -68,7 +68,7 @@ rollback on failures, maintaining system robustness.
 This integrated architecture supports scalable, automated, and accurate stock market analysis,
 providing a solid foundation for predictive analytics and strategic investment insights.
 
-### Conclusion
+#### Conclusion
 This project developed an automated stock price prediction system using Snowflake and
 Airflow to streamline financial data analytics. By leveraging the yfinance API, historical
 stock data for selected companies was collected daily and stored in Snowflake through an
